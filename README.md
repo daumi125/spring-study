@@ -30,19 +30,14 @@
 
 | 챕터 | 주제 | 토론 내용 |
 |------|------|-----------|
-| 3장. 아키텍처 | 구조 이해 | 스레드 캐시 vs 스레드 풀 |
+| PART3 | 구조 이해 | 스레드 캐시 vs 스레드 풀 |
 |  |  | MySQL 스레드는 어디에 속하는가? |
 |  |  | InnoDB 포그라운드 스레드 역할 |
-|  |  | 트랜잭션 격리 수준 vs 락 |
-|  |  | InnoDB의 쓰기 지연 vs JPA의 쓰기 지연 |
-|  |  | Gap Lock, Named Lock이란? |
-|  |  | 외래키 사용의 단점 (feat. 잠금) |
-|  |  | 낙관적 락 vs MVCC |
-| 2장. 설치와 설정 | 설치 이슈 | [요약1](https://github.com/daumi125/spring-study/discussions/4) |
-|  |  | [요약2](https://github.com/daumi125/spring-study/discussions/5)|
-|  |  | 소켓 통신 vs TCP 통신 |
-|  |  | MySQL 5.7 vs 8.0의 계정 생성 방식 차이 |
-|  |  | localhost vs 127.0.0.1 차이 |
+| PART2 | 세원 | [
+PART2. 스프링 MVC설정](https://github.com/daumi125/spring-study/discussions/4) |
+|  | 다음 | [Part2 스프링 MVC의 기본 구조 & 스프링 MVC의 Controller](https://github.com/daumi125/spring-study/discussions/5)|
+|  | 지원 | 요약 |
+
 
 ---
 
