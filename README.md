@@ -38,8 +38,8 @@
 |  |  | Gap Lock, Named Lock이란? |
 |  |  | 외래키 사용의 단점 (feat. 잠금) |
 |  |  | 낙관적 락 vs MVCC |
-| 2장. 설치와 설정 | 설치 이슈 | 인플레이스 업그레이드 vs 논리적 업그레이드 |
-|  |  | MySQL 접속 시 http vs https |
+| 2장. 설치와 설정 | 설치 이슈 | [요약1](https://github.com/daumi125/spring-study/discussions/4) |
+|  |  | [요약2](https://github.com/daumi125/spring-study/discussions/5)|
 |  |  | 소켓 통신 vs TCP 통신 |
 |  |  | MySQL 5.7 vs 8.0의 계정 생성 방식 차이 |
 |  |  | localhost vs 127.0.0.1 차이 |
@@ -50,6 +50,6 @@
 
 | 이름 | GitHub ID |
 |------|------------|
-| 정다음음 | [@Hyeon0208](https://github.com/Hyeon0208) |
-| 이지원 | [@Libienz](https://github.com/Libienz) |
+| 정다음 | [@daumi125](https://github.com/daumi125) |
+| 이지원 | [@jern2](https://github.com/jern2) |
 | 박세원 | [@dnjs0](https://github.com/dnjs0) |
