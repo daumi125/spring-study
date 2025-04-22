@@ -33,9 +33,8 @@
 | PART3 | 구조 이해 | 스레드 캐시 vs 스레드 풀 |
 |  |  | MySQL 스레드는 어디에 속하는가? |
 |  |  | InnoDB 포그라운드 스레드 역할 |
-| PART2 | 세원 | [
-PART2. 스프링 MVC설정](https://github.com/daumi125/spring-study/discussions/4) |
-|  | 다음 | [Part2 스프링 MVC의 기본 구조 & 스프링 MVC의 Controller](https://github.com/daumi125/spring-study/discussions/5)|
+| PART2 | 세원 | [스프링 MVC설정](https://github.com/daumi125/spring-study/discussions/4) |
+|  | 다음 | [스프링 MVC의 기본 구조 & 스프링 MVC의 Controller](https://github.com/daumi125/spring-study/discussions/5)|
 |  | 지원 | 요약 |
 
 
