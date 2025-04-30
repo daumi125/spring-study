@@ -35,7 +35,7 @@
 |  |  | InnoDB 포그라운드 스레드 역할 |
 | PART2 | 세원 | [스프링 MVC설정](https://github.com/daumi125/spring-study/discussions/4) |
 |  | 다음 | [스프링 MVC의 기본 구조 & 스프링 MVC의 Controller](https://github.com/daumi125/spring-study/discussions/5)|
-|  | 지원 | 요약 |
+|  | 지원 | (https://github.com/daumi125/spring-study/discussions/10#discussion-8231109) |
 
 
 ---
