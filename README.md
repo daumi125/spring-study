@@ -38,7 +38,7 @@
 |  | 세원 | [Spring에서 파일 업로드는 어떻게 구현하나요?](https://github.com/daumi125/spring-study/discussions/27) |
 |  | 다음 | [왜 파일 업로드 시 MultipartFile을 사용하나요?](https://github.com/daumi125/spring-study/discussions/28) |
 |  | 다음 | [스프링에서 스케줄러를 구현하는 방법은 무엇인가요?](https://github.com/daumi125/spring-study/discussions/29) |
-| PART5 | 지원 | [AOP란 무엇인지 설명하고, AOP에서 @Around 어드바이스와 ProceedingJoinPoint가 어떤 역할을 하는지 구체적으로 설명해보세요.](https://github.com/daumi125/spring-study/discussions/17) 
+| PART5 | 지원 | [AOP란 무엇인지 설명해보세요.](https://github.com/daumi125/spring-study/discussions/17) 
  |  | 세원 | [스프링에서는 트랜잭션을 어떻게 관리하나요?](https://github.com/daumi125/spring-study/discussions/22) |
 |  | 다음 | [데이터베이스의 신뢰성과 일관성을 유지하는 방법은 무엇인가요?](https://github.com/daumi125/spring-study/discussions/24) |
 | PART4 | 세원 | ["Rest 방식으로 바꾼다"는 말이 의미하는 것이 무엇인가요?](https://github.com/daumi125/spring-study/discussions/20) |
