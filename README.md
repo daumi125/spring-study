@@ -26,14 +26,14 @@
 
 ## 📚 학습 내용
 
-| 챕터 |   담당   | 요약 내용 |
+| 챕터 |  담당  | 요약 내용 |
 |------|------|-----------|
 | PART7 | 다음 | [spring security 동작 방식에 대해서 설명하시오.](https://github.com/daumi125/spring-study/discussions/30) |
-|  | 세원 | [Spring Security에서 인증(Authentication)과 인가(Authorization)의 차이는 무엇인가요?](https://github.com/daumi125/spring-study/discussions/31) |
+|  | 세원 | [Spring Security에서 인증(Authentication)과 인가(Authorization)의 차이?](https://github.com/daumi125/spring-study/discussions/31) |
 |  | 지원 | [Spring Security란 무엇이며 왜 사용하는가?](https://github.com/daumi125/spring-study/discussions/32) |
 |  | 세원 | [CSRF란 무엇이며, Spring Security는 이를 어떻게 방어하나요?](https://github.com/daumi125/spring-study/discussions/33) |
-| PART6 | 지원 | [스프링에서 파일 업로드를 처리하기 위해 어떤 설정이 필요하고, MultipartResolver는 어떤 역할을 하나요?](https://github.com/daumi125/spring-study/discussions/23) |
-|  | 지원 | [form 방식 파일 업로드와 Ajax 방식 파일 업로드의 차이점은 무엇인가요? 각각 언제 사용하는 게 좋은가요?](https://github.com/daumi125/spring-study/discussions/25) |
+| PART6 | 지원 | [스프링에서 파일 업로드를 처리하기 위해 어떤 설정이 필요하나요?](https://github.com/daumi125/spring-study/discussions/23) |
+|  | 지원 | [form 방식 파일 업로드와 Ajax 방식 파일 업로드의 차이점은 무엇인가요?](https://github.com/daumi125/spring-study/discussions/25) |
 |  | 지원 | [게시글을 삭제할 때 첨부파일도 함께 삭제하려면 어떤 점을 주의해야 하나요?](https://github.com/daumi125/spring-study/discussions/26) |
 |  | 세원 | [Spring에서 파일 업로드는 어떻게 구현하나요?](https://github.com/daumi125/spring-study/discussions/27) |
 |  | 다음 | [왜 파일 업로드 시 MultipartFile을 사용하나요?](https://github.com/daumi125/spring-study/discussions/28) |
