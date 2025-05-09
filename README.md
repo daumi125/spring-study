@@ -26,7 +26,7 @@
 
 ## 📚 학습 내용
 
-| 챕터 | 담당 | 요약 내용 |
+| 챕터 |   담당   | 요약 내용 |
 |------|------|-----------|
 | PART7 | 다음 | [spring security 동작 방식에 대해서 설명하시오.](https://github.com/daumi125/spring-study/discussions/30) |
 |  | 세원 | [Spring Security에서 인증(Authentication)과 인가(Authorization)의 차이는 무엇인가요?](https://github.com/daumi125/spring-study/discussions/31) |
